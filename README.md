@@ -1,2 +1,1 @@
-# Jornal3.0
-desweb
+# Trab-Jornal
